@@ -1,6 +1,6 @@
 {
   "name": "meta-app-mongo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A MongoDB store for the MetaApp framework",
   "main": "index.js",
   "scripts": {
